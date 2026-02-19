@@ -1,3 +1,8 @@
+
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> 65302a3 (F:)
 TheStartup
